@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: priv.welber.ds.assigenment1.client.ClientLauncher
+
